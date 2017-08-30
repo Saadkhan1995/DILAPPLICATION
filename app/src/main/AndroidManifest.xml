@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.awanlaptop.dilapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".loginform"
+            android:label="@string/title_activity_loginform"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BasicInfoActivity"
+            android:label="@string/title_activity_questionaires"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BasicInfoActivity2"
+            android:label="@string/title_activity_questionaires2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MainMenu"
+            android:label="@string/title_activity_main_menu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Respondent"
+            android:label="@string/title_activity_respondent"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Respondent2"
+            android:label="@string/title_activity_respondent2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Respondent3"
+            android:label="@string/title_activity_respondent3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MyDBHandler"
+            android:label="@string/title_activity_my_dbhandler"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FamilyInformationActivity"
+            android:label="@string/title_activity_family_information"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FamilyInformationActivity2"
+            android:label="@string/title_activity_family_information2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MaritalStatusActivity"
+            android:label="@string/title_activity_marital_status"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MaritalStatus2Activity"
+            android:label="@string/title_activity_marital_status2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FamilyInformationActivity3"
+            android:label="@string/title_activity_family_information3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FamilyInformationActivity4"
+            android:label="@string/title_activity_family_information4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FamilyInformationActivity5"
+            android:label="@string/title_activity_family_information5"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FamilyInformationActivity6"
+            android:label="@string/title_activity_family_information6"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FamilyInformationActivity7"
+            android:label="@string/title_activity_family_information7"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FamilyInformationActivity8"
+            android:label="@string/title_activity_family_information8"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FamilyInformationActivity9"
+            android:label="@string/title_activity_family_information9"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformationActivity"
+            android:label="@string/title_activity_schooling_and_current_status"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation2Activity"
+            android:label="@string/title_activity_schooling_information2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation3Activity"
+            android:label="@string/title_activity_schooling_information3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation4Activity"
+            android:label="@string/title_activity_schooling_information4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation5Activity"
+            android:label="@string/title_activity_schooling_information5"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation6Activity"
+            android:label="@string/title_activity_schooling_information6"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation7Activity"
+            android:label="@string/title_activity_schooling_information7"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AboutDIL"
+            android:label="@string/title_activity_about_dil"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation8Activity"
+            android:label="@string/title_activity_schooling_information8"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation9Activity"
+            android:label="@string/title_activity_schooling_information9"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation10Activity"
+            android:label="@string/title_activity_schooling_information10"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation11Activity"
+            android:label="@string/title_activity_schooling_information11"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation12Activity"
+            android:label="@string/title_activity_schooling_information12"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation13Activity"
+            android:label="@string/title_activity_schooling_information13"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation14Activity"
+            android:label="@string/title_activity_schooling_information14"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation15Activity"
+            android:label="@string/title_activity_schooling_information15"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolingInformation16Activity"
+            android:label="@string/title_activity_schooling_information16"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SiblingsStatusActivity"
+            android:label="@string/title_activity_siblings_status"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AmbitionsAndInterests2Activity"
+            android:label="@string/title_activity_ambitions_and_interests2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AmbitionsAndInterestsActivity"
+            android:label="@string/title_activity_ambitions_and_interests"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AmbitionsAndInterests3Activity"
+            android:label="@string/title_activity_ambitions_and_interests3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AmbitionsAndInterests4Activity"
+            android:label="@string/title_activity_ambitions_and_interests4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SuggestionActivity"
+            android:label="@string/title_activity_suggestion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FeedbackActivity"
+            android:label="@string/title_activity_feedback"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SiblingsStatus2Activity"
+            android:label="@string/title_activity_siblings_status2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AmbitionsAndInterests1Activity"
+            android:label="@string/title_activity_ambitions_and_interests1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SuggestionActivity2"
+            android:label="@string/title_activity_suggestion2"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

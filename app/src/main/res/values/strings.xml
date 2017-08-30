@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">DILAPPLICATION</string>
+    <string name="title_activity_loginform">loginform</string>
+    <string name="title_activity_login1">login1</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main22">Main22Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_loginforn">loginforn</string>
+    <string name="title_activity_questionaires">Questionaires</string>
+    <string name="title_activity_questionaires2">questionaires2</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_marital_status">MaritalStatus</string>
+    <string name="title_activity_respondent">RespondentsProfiles</string>
+    <string name="title_activity_respondent2">Respondent2</string>
+    <string name="title_activity_respondent3">Respondent3</string>
+
+    <string-array name="name">
+        <item>Choose any Option</item>
+        <item>Yes/No</item>
+        <item>Checkbox</item>
+        <item>Informative Questions</item>
+        <item>Choose Questions</item>
+    </string-array>
+    <string name="title_activity_section1yesnoactivity">Section1yesnoactivity</string>
+    <string name="title_activity_section1_checkbox">Section1CheckboxActivity</string>
+    <string name="title_activity_informative_questions">InformativeQuestions</string>
+    <string name="title_activity_section11">section11</string>
+    <string name="title_activity_section11_1">Section11_1</string>
+    <string name="title_activity_my_dbhandler">MyDBHandler</string>
+    <string name="title_activity_family_information">FamilyInformation</string>
+    <string name="title_activity_family_information2">FamilyInformationActivity2</string>
+    <string name="title_activity_mens">mens</string>
+    <string name="title_activity_marital_status2">MaritalStatus2Activity</string>
+    <string name="title_activity_marital_status3">MaritalStatusActivity3</string>
+    <string name="title_activity_family_information3">FamilyInformationActivity3</string>
+    <string name="title_activity_family_information4">FamilyInformationActivity4</string>
+    <string name="title_activity_family_information5">FamilyInformationActivity5</string>
+    <string name="title_activity_family_information6">FamilyInformationActivity6</string>
+    <string name="title_activity_family_information7">FamilyInformationActivity7</string>
+    <string name="title_activity_family_information8">FamilyInformationActivity8</string>
+    <string name="title_activity_family_information9">FamilyInformationActivity9</string>
+    <string name="title_activity_schooling_and_current_status">SchoolingAndCurrentStatusActivity
+    </string>
+    <string name="title_activity_schooling_information2">SchoolingInformation2</string>
+    <string name="title_activity_schooling_information3">SchoolingInformation3Activity</string>
+    <string name="title_activity_schooling_information4">SchoolingInformation4Activity</string>
+    <string name="title_activity_about_dil">AboutDIL</string>
+    <string name="title_activity_schooling_information5">SchoolingInformation5Activity</string>
+    <string name="title_activity_schooling_information6">SchoolingInformation6Activity</string>
+    <string name="title_activity_schooling_information7">SchoolingInformation7Activity</string>
+    <string name="title_activity_schooling_information8">SchoolingInformation8Activity</string>
+    <string name="title_activity_schooling_information9">SchoolingInformation9Activity</string>
+    <string name="title_activity_schooling_information10">SchoolingInformation10Activity</string>
+    <string name="title_activity_schooling_information11">SchoolingInformation11Activity</string>
+    <string name="title_activity_schooling_information12">SchoolingInformation12Activity</string>
+    <string name="title_activity_schooling_information13">SchoolingInformation13Activity</string>
+    <string name="title_activity_schooling_information14">SchoolingInformation14Activity</string>
+    <string name="title_activity_schooling_information15">SchoolingInformation15Activity</string>
+    <string name="title_activity_schooling_information16">SchoolingInformation16Activity</string>
+    <string name="title_activity_siblings_status">SiblingsStatusActivity</string>
+    <string name="title_activity_ambitions_and_interests">AmbitionsAndInterestsActivity</string>
+    <string name="title_activity_ambitions_and_interests2">AmbitionsAndInterests2Activity</string>
+    <string name="title_activity_ambitions_and_interests3">AmbitionsAndInterests3Activity</string>
+    <string name="title_activity_ambitions_and_interests4">AmbitionsAndInterests4Activity</string>
+    <string name="title_activity_suggestion">SuggestionActivity</string>
+    <string name="title_activity_feedback">FeedbackActivity</string>
+    <string name="title_activity_siblings_status2">SiblingsStatus2Activity</string>
+    <string name="title_activity_ambitions_and_interests1">AmbitionsAndInterests1Activity</string>
+    <string name="title_activity_suggestion2">SuggestionActivity2</string>
+</resources>
